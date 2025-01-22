@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jyoti Mishra | Data Analyst Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Jyoti Mishra</h1>
+        <p>Aspiring Data Analyst | Transforming Data into Insights</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a dedicated Electrical Engineering graduate with foundational expertise in data analytics, including Excel, MySQL, and Power BI. 
+            I am passionate about leveraging data to uncover meaningful insights and help businesses make informed decisions.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Microsoft Excel: Pivot Tables, Charts, Advanced Functions</li>
+            <li>Power BI: Dashboard Creation, Data Visualization</li>
+            <li>SQL: Basic Queries, Data Extraction</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>HR Analytics Dashboard</h3>
+            <p>Developed an interactive dashboard to assist HR professionals in workforce management, using Power BI and SQL.</p>
+        </div>
+        <div class="project">
+            <h3>E-commerce Dashboard</h3>
+            <p>Designed a powerful dashboard with KPIs, drill-down features, and insights on sales and employee performance.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:Jyotim1704@gmail.com">Jyotim1704@gmail.com</a></p>
+        <p>LinkedIn: <a href="http://www.linkedin.com/in/jyoti-mishra-43a36b26a" target="_blank">Jyoti Mishra</a></p>
+        <p>Phone: 8637288522</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Jyoti Mishra. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
